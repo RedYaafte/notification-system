@@ -1,0 +1,13 @@
+.swp
+*.swa
+*.DS_Store
+*.pyc
+*.ipynb
+settings.py
+db.sqlite3
+sql_data/*
+
+
+.vscode/*
+venv/*
+.env
